@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "863746789551",
+    "project_id": "pust-noti-3b290",
+    "storage_bucket": "pust-noti-3b290.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863746789551:android:4fe28b5bbbaa7d7311445a",
+        "android_client_info": {
+          "package_name": "com.quyetdz.noti"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrJcqMpVlzfIv0qfFqXXDcnCYkRACeHG4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

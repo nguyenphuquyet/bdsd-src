@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.quyetdz.noti.app-mergeReleaseResources-39:/layout/activity_login.xml",
+        "source": "com.quyetdz.noti.app-main-41:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.quyetdz.noti.app-mergeReleaseResources-39:/layout/activity_profile.xml",
+        "source": "com.quyetdz.noti.app-main-41:/layout/activity_profile.xml"
+    }
+]

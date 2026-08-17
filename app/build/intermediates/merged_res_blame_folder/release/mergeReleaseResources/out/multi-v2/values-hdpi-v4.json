@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.quyetdz.noti.app-mergeReleaseResources-38:/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Quyet Guic\\.gradle\\caches\\9.3.0\\transforms\\3f248bdeb50782a75016f617bdbc3606\\workspace\\transformed\\appcompat-1.7.0\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "com.quyetdz.noti.app-release-40:/layout_activity_login.xml.flat",
+        "source": "com.quyetdz.noti.app-main-41:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.quyetdz.noti.app-release-40:/mipmap_ic_launcher_round.png.flat",
+        "source": "com.quyetdz.noti.app-main-41:/mipmap/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.quyetdz.noti.app-release-40:/drawable_ic_check_circle.xml.flat",
+        "source": "com.quyetdz.noti.app-main-41:/drawable/ic_check_circle.xml"
+    },
+    {
+        "merged": "com.quyetdz.noti.app-release-40:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.quyetdz.noti.app-main-41:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.quyetdz.noti.app-release-40:/drawable_ic_lock.xml.flat",
+        "source": "com.quyetdz.noti.app-main-41:/drawable/ic_lock.xml"
+    },
+    {
+        "merged": "com.quyetdz.noti.app-release-40:/drawable_ic_person.xml.flat",
+        "source": "com.quyetdz.noti.app-main-41:/drawable/ic_person.xml"
+    },
+    {
+        "merged": "com.quyetdz.noti.app-release-40:/drawable_snapedit_1786884847834_fotor_2026081620312.png.flat",
+        "source": "com.quyetdz.noti.app-main-41:/drawable/snapedit_1786884847834_fotor_2026081620312.png"
+    },
+    {
+        "merged": "com.quyetdz.noti.app-release-40:/drawable_bg_circle_tint.xml.flat",
+        "source": "com.quyetdz.noti.app-main-41:/drawable/bg_circle_tint.xml"
+    },
+    {
+        "merged": "com.quyetdz.noti.app-release-40:/drawable_ic_email.xml.flat",
+        "source": "com.quyetdz.noti.app-main-41:/drawable/ic_email.xml"
+    },
+    {
+        "merged": "com.quyetdz.noti.app-release-40:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.quyetdz.noti.app-main-41:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.quyetdz.noti.app-release-40:/drawable_avatar_bg.xml.flat",
+        "source": "com.quyetdz.noti.app-main-41:/drawable/avatar_bg.xml"
+    },
+    {
+        "merged": "com.quyetdz.noti.app-release-40:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.quyetdz.noti.app-main-41:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.quyetdz.noti.app-release-40:/drawable_ic_logout.xml.flat",
+        "source": "com.quyetdz.noti.app-main-41:/drawable/ic_logout.xml"
+    },
+    {
+        "merged": "com.quyetdz.noti.app-release-40:/layout_activity_profile.xml.flat",
+        "source": "com.quyetdz.noti.app-main-41:/layout/activity_profile.xml"
+    },
+    {
+        "merged": "com.quyetdz.noti.app-release-40:/drawable_ic_notification.png.flat",
+        "source": "com.quyetdz.noti.app-main-41:/drawable/ic_notification.png"
+    },
+    {
+        "merged": "com.quyetdz.noti.app-release-40:/drawable_ic_notifications.xml.flat",
+        "source": "com.quyetdz.noti.app-main-41:/drawable/ic_notifications.xml"
+    },
+    {
+        "merged": "com.quyetdz.noti.app-release-40:/drawable_bg_circle_white_translucent.xml.flat",
+        "source": "com.quyetdz.noti.app-main-41:/drawable/bg_circle_white_translucent.xml"
+    },
+    {
+        "merged": "com.quyetdz.noti.app-release-40:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.quyetdz.noti.app-main-41:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.quyetdz.noti.app-release-40:/drawable_bg_circle_white.xml.flat",
+        "source": "com.quyetdz.noti.app-main-41:/drawable/bg_circle_white.xml"
+    },
+    {
+        "merged": "com.quyetdz.noti.app-release-40:/drawable_bg_gradient_header.xml.flat",
+        "source": "com.quyetdz.noti.app-main-41:/drawable/bg_gradient_header.xml"
+    },
+    {
+        "merged": "com.quyetdz.noti.app-release-40:/drawable_edittext_bg.xml.flat",
+        "source": "com.quyetdz.noti.app-main-41:/drawable/edittext_bg.xml"
+    },
+    {
+        "merged": "com.quyetdz.noti.app-release-40:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.quyetdz.noti.app-main-41:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.quyetdz.noti.app-release-40:/drawable_bg_gradient_primary.xml.flat",
+        "source": "com.quyetdz.noti.app-main-41:/drawable/bg_gradient_primary.xml"
+    }
+]

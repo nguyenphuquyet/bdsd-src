@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">863746789551</string>
+    <string name="google_api_key" translatable="false">AIzaSyBrJcqMpVlzfIv0qfFqXXDcnCYkRACeHG4</string>
+    <string name="google_app_id" translatable="false">1:863746789551:android:4fe28b5bbbaa7d7311445a</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBrJcqMpVlzfIv0qfFqXXDcnCYkRACeHG4</string>
+    <string name="google_storage_bucket" translatable="false">pust-noti-3b290.firebasestorage.app</string>
+    <string name="project_id" translatable="false">pust-noti-3b290</string>
+</resources>
